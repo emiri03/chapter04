@@ -57,3 +57,8 @@ nav a:hover{
    font-weight:bold;
    background-image:url(../images/silvar.png);
 }
+/*　メインコンテンツ　css */
+main{
+     width:960px;
+     padding-top:20px;
+     padding-left:
